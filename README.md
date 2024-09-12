@@ -6,7 +6,7 @@
 <br>
 <h3>To install the package, use npm with the following command:</h3>
 <br>
-<p><code>npm i currency-conversion-v1.1.2</code></p>
+<p>```npm i currency-conversion-v1.1.2```</p>
 <br>
 <h1>Usage</h1>
 <br>
