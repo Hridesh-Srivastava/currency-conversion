@@ -1,4 +1,4 @@
-# currency-conversion
+
 # currency-conversion
 <h2>The Currency-Conversion package provides a robust solution for converting currency values across different currencies. This package utilizes real-time exchange rates to ensure accurate and up-to-date conversions. Whether you're building financial applications, e-commerce platforms, or any project requiring currency conversion, this package is designed to be both simple to integrate and reliable in performance. </h2>
 <br>
@@ -6,7 +6,7 @@
 <br>
 <h3>To install the package, use npm with the following command:</h3>
 <br>
-<p>`npm i currency-conversion-v1.1.2`</p>
+<p><code>npm i currency-conversion-v1.1.2</code></p>
 <br>
 <h1>Usage</h1>
 <br>
