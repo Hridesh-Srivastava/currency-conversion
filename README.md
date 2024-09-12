@@ -1,3 +1,4 @@
+<h1>Currency Conversion </h1>
 <h2>The Currency-Conversion package provides a robust solution for converting currency values across different currencies. This package utilizes real-time exchange rates to ensure accurate and up-to-date conversions. Whether you're building financial applications, e-commerce platforms, or any project requiring currency conversion, this package is designed to be both simple to integrate and reliable in performance.</h2>
 <br>
 <h1>Installation</h1>
