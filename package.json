@@ -1,0 +1,26 @@
+{
+  "name": "currency-conversion-v1",
+  "version": "1.0.0",
+  "description": "npm package for currency conversion",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hridesh-Srivastava/currency-conversion.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Hridesh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Hridesh-Srivastava/currency-conversion/issues"
+  },
+  "homepage": "https://github.com/Hridesh-Srivastava/currency-conversion#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
