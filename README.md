@@ -35,7 +35,7 @@ convertCurrency("INR" , "USD" , 240).then((res) => {
 <br>
 <h1>Contributing</h1>
 <br>
-<pre>Contributions to the currency-conversion-v1.1.1 package are welcome. Please submit issues, pull requests, or suggestions via GitHub.</pre>
+<p>Contributions to the currency-conversion-v1.1.2 package are welcome. Please submit issues, pull requests, or suggestions via GitHub.</p>
 <br>
 <h1>License</h1>
 <br>
