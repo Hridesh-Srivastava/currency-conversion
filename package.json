@@ -1,5 +1,5 @@
 {
-  "name": "currency-conversion-v1.1.1",
+  "name": "currency-conversion-v1.1.2",
   "version": "1.1.1",
   "description": "npm package for currency conversion",
   "main": "index.js",
